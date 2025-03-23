@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hi there 👋, I'm Omprakash Gupta  
 
-<!--
-**omprakash6765/Omprakash6765** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Automation & Cloud Engineer** | SCADA & IoT | Supabase | AWS | Python  
 
-Here are some ideas to get you started:
+🔹 Currently working on **SCADA Data Integration with Cloud**  
+🔹 Learning **AWS, PostgreSQL, and Cloud Automation**  
+🔹 Looking to collaborate on **Industrial IoT & Edge Computing projects**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack:  
+- **Programming:** Python, SQL  
+- **Cloud:** AWS, Supabase  
+- **Databases:** PostgreSQL, MySQL  
+- **SCADA Systems:** Rockwell, Siemens  
+
+📫 **How to reach me:**  
+[LinkedIn](https://www.linkedin.com/in/your-profile/) | [GitHub](https://github.com/Omprakash6765)  
+
+---
+⭐ **Fun Fact:** I automate machines and now I'm automating the cloud!  
